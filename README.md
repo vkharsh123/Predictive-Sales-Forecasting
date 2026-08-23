@@ -14,6 +14,10 @@ Conducted comprehensive EDA to isolate key business trends:
 Examined overall date-wise sales to establish baseline operational patterns.
 Analyzed sales fluctuations across different days of the week, months, and averaged quarters to identify seasonal variance.
 Benchmarked the financial performance of different restaurant branches, tracking high-volume sales locations across varying timeframes.
+<img width="1527" height="859" alt="sales co wise" src="https://github.com/user-attachments/assets/bf10539d-bb5f-479e-8dfb-2307a7e22314" />
+<img width="1555" height="578" alt="sales trend" src="https://github.com/user-attachments/assets/b845de64-9b41-4722-b899-c5d2b3f961ce" />
+
+
 
 Technical & Machine Learning Stack
 Data Management: Python, Pandas, NumPy.
